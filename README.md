@@ -1,5 +1,3 @@
-![alt text](./images/top.svg)
-
 ### Hello, I am Teylor Alencar :zap:
 
 I love coding in Java and Javascript :coffee:. I work at [Neosyx](https://www.neosyx.com/) as a Android Developer.
@@ -20,5 +18,3 @@ I'm a front-end lover.
 	<a href="https://www.instagram.com/teylor.l/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/LuksTeylor"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
-
-![alt text](./images/bottom.svg)
