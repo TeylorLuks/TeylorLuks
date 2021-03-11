@@ -1,6 +1,8 @@
 ![alt text](./images/top.svg)
 
-I love coding in Java and Javascript :coffe:. I work at [Neosyx](https://www.neosyx.com/) as a Android Developer.
+### Hello, I am Teylor Alencar :zap:
+
+I love coding in Java and Javascript :coffee:. I work at [Neosyx](https://www.neosyx.com/) as a Android Developer.
 
 I'm a front-end lover.
 
